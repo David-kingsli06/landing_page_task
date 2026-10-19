@@ -4,7 +4,7 @@ import Link from "next/link"
 import { CgClose } from 'react-icons/cg';
 
 type Props={
-  showNav: boolen;
+  showNav: boolean;
   closeNav: () => void;
 }
 
